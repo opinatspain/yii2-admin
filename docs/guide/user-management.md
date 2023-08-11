@@ -4,7 +4,7 @@ User Management
 For `basic application template` that want to have user stored in database.
 To use this feature, create required table by execute migration.
 ```
-./yii migrate --migrationPath=@mdm/admin/migrations
+./yii migrate --migrationPath=@opinatspain/admin/migrations
 ```
 Then, change config of user component
 ```php

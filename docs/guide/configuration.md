@@ -49,7 +49,7 @@ http://localhost/path/to/index.php?r=admin/user
 
 To use the menu manager (optional), execute the migration here:
 ```
-yii migrate --migrationPath=@mdm/admin/migrations
+yii migrate --migrationPath=@opinatspain/admin/migrations
 ```
 
 If you use database (class 'yii\rbac\DbManager') to save rbac data, execute the migration here:
