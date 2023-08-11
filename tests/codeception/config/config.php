@@ -12,7 +12,7 @@ return [
     ],
     'modules' => [
         'admin' => [
-            'class' => 'mdm\admin\Module',
+            'class' => 'opinatspain\admin\Module',
         ]
     ],
     'controllerMap' => [

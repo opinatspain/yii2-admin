@@ -1,10 +1,10 @@
 <?php
 
-namespace reza2ebt\admin\controllers;
+namespace opinatspain\admin\controllers;
 
 use Yii;
-use mdm\admin\models\Assignment;
-use mdm\admin\models\searchs\Assignment as AssignmentSearch;
+use opinatspain\admin\models\Assignment;
+use opinatspain\admin\models\searchs\Assignment as AssignmentSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
@@ -32,7 +32,7 @@ class AssignmentController extends Controller
         parent::init();
         if ($this->userClassName === null) {
             $this->userClassName = Yii::$app->getUser()->identityClass;
-            $this->userClassName = $this->userClassName ? : 'mdm\admin\models\User';
+            $this->userClassName = $this->userClassName ? : 'opinatspain\admin\models\User';
         }
     }
 

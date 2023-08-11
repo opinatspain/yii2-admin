@@ -1,14 +1,14 @@
 <?php
 
-namespace reza2ebt\admin\controllers;
+namespace opinatspain\admin\controllers;
 
 use Yii;
-use mdm\admin\models\Menu;
-use mdm\admin\models\searchs\Menu as MenuSearch;
+use opinatspain\admin\models\Menu;
+use opinatspain\admin\models\searchs\Menu as MenuSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-use mdm\admin\components\Helper;
+use opinatspain\admin\components\Helper;
 
 /**
  * MenuController implements the CRUD actions for Menu model.

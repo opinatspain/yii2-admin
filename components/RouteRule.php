@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin\components;
+namespace opinatspain\admin\components;
 
 use Yii;
 use yii\rbac\Rule;

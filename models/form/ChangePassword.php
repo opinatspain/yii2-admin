@@ -1,9 +1,9 @@
 <?php
 
-namespace reza2ebt\admin\models\form;
+namespace opinatspain\admin\models\form;
 
 use Yii;
-use mdm\admin\models\User;
+use opinatspain\admin\models\User;
 use yii\base\Model;
 
 /**

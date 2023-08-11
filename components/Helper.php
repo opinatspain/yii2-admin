@@ -1,8 +1,8 @@
 <?php
 
-namespace reza2ebt\admin\components;
+namespace opinatspain\admin\components;
 
-use mdm\admin\models\Route;
+use opinatspain\admin\models\Route;
 use Yii;
 use yii\caching\TagDependency;
 use yii\helpers\ArrayHelper;

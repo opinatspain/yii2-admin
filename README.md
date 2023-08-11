@@ -4,7 +4,7 @@ GUI manager for RBAC (Role Base Access Control) Yii2. Easy to manage authorizati
 
 Documentation
 -------------
-> **Important: This project fork from  [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) please check document from here.**
+> **Important: This project fork from  [opinatspain/yii2-admin](https://github.com/opinatspain/yii2-admin) please check document from here.**
 
 Installation
 ------------
@@ -16,5 +16,5 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require reza2ebt/yii2-admin "~1.0"
+php composer.phar require opinatspain/yii2-admin "~1.0"
 ```

@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin;
+namespace opinatspain\admin;
 
 use yii\web\AssetBundle;
 

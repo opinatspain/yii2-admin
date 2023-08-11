@@ -1,9 +1,9 @@
 <?php
 
-namespace reza2ebt\admin\models;
+namespace opinatspain\admin\models;
 
-use mdm\admin\components\Configs;
-use mdm\admin\components\UserStatus;
+use opinatspain\admin\components\Configs;
+use opinatspain\admin\components\UserStatus;
 use Yii;
 use yii\base\NotSupportedException;
 use yii\behaviors\TimestampBehavior;

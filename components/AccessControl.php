@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin\components;
+namespace opinatspain\admin\components;
 
 use yii\web\ForbiddenHttpException;
 use yii\base\Module;
@@ -18,7 +18,7 @@ use yii\di\Instance;
  *
  * ```
  * 'as access' => [
- *     'class' => 'mdm\admin\components\AccessControl',
+ *     'class' => 'opinatspain\admin\components\AccessControl',
  *     'allowActions' => ['site/login', 'site/error']
  * ]
  * ```
