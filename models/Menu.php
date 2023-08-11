@@ -1,9 +1,9 @@
 <?php
 
-namespace reza2ebt\admin\models;
+namespace opinatspain\admin\models;
 
 use Yii;
-use mdm\admin\components\Configs;
+use opinatspain\admin\components\Configs;
 use yii\db\Query;
 
 /**

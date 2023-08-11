@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin\components;
+namespace opinatspain\admin\components;
 
 /**
  * Description of UserStatus

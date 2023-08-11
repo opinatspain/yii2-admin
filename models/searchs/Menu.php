@@ -1,14 +1,14 @@
 <?php
 
-namespace reza2ebt\admin\models\searchs;
+namespace opinatspain\admin\models\searchs;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use mdm\admin\models\Menu as MenuModel;
+use opinatspain\admin\models\Menu as MenuModel;
 
 /**
- * Menu represents the model behind the search form about [[\mdm\admin\models\Menu]].
+ * Menu represents the model behind the search form about [[\opinatspain\admin\models\Menu]].
  * 
  * @author Misbahul D Munir <misbahuldmunir@gmail.com>
  * @since 1.0

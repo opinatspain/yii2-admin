@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin\controllers;
+namespace opinatspain\admin\controllers;
 
 use Yii;
 

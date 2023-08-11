@@ -1,11 +1,11 @@
 <?php
 
-namespace reza2ebt\admin\models;
+namespace opinatspain\admin\models;
 
-use mdm\admin\components\Configs;
-use mdm\admin\components\Helper;
-use mdm\admin\controllers\AssignmentController;
-use mdm\admin\Module;
+use opinatspain\admin\components\Configs;
+use opinatspain\admin\components\Helper;
+use opinatspain\admin\controllers\AssignmentController;
+use opinatspain\admin\Module;
 use Yii;
 use yii\base\Model;
 use yii\helpers\Json;

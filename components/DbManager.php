@@ -1,6 +1,6 @@
 <?php
 
-namespace reza2ebt\admin\components;
+namespace opinatspain\admin\components;
 
 /**
  * DbManager represents an authorization manager that stores authorization information in database.

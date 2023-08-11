@@ -1,15 +1,15 @@
 <?php
 
-namespace reza2ebt\admin\controllers;
+namespace opinatspain\admin\controllers;
 
-use mdm\admin\components\UserStatus;
-use mdm\admin\models\form\ChangePassword;
-use mdm\admin\models\form\Login;
-use mdm\admin\models\form\PasswordResetRequest;
-use mdm\admin\models\form\ResetPassword;
-use mdm\admin\models\form\Signup;
-use mdm\admin\models\searchs\User as UserSearch;
-use mdm\admin\models\User;
+use opinatspain\admin\components\UserStatus;
+use opinatspain\admin\models\form\ChangePassword;
+use opinatspain\admin\models\form\Login;
+use opinatspain\admin\models\form\PasswordResetRequest;
+use opinatspain\admin\models\form\ResetPassword;
+use opinatspain\admin\models\form\Signup;
+use opinatspain\admin\models\searchs\User as UserSearch;
+use opinatspain\admin\models\User;
 use Yii;
 use yii\base\InvalidParamException;
 use yii\base\UserException;

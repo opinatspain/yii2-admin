@@ -1,10 +1,10 @@
 <?php
 
-namespace reza2ebt\admin\models\form;
+namespace opinatspain\admin\models\form;
 
 use Yii;
 use yii\base\Model;
-use mdm\admin\models\User;
+use opinatspain\admin\models\User;
 
 /**
  * Login form
@@ -71,7 +71,7 @@ class Login extends Model
     public function getUser()
     {
         if ($this->_user === false) {
-            $class = Yii::$app->getUser()->identityClass ? : 'mdm\admin\models\User';
+            $class = Yii::$app->getUser()->identityClass ? : 'opinatspain\admin\models\User';
             $this->_user = $class::findByUsername($this->username);
         }
 

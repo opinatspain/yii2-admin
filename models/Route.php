@@ -1,11 +1,11 @@
 <?php
 
-namespace reza2ebt\admin\models;
+namespace opinatspain\admin\models;
 
 use Exception;
-use mdm\admin\components\Configs;
-use mdm\admin\components\Helper;
-use mdm\admin\components\RouteRule;
+use opinatspain\admin\components\Configs;
+use opinatspain\admin\components\Helper;
+use opinatspain\admin\components\RouteRule;
 use Yii;
 use yii\caching\TagDependency;
 use yii\helpers\VarDumper;
@@ -16,7 +16,7 @@ use yii\helpers\VarDumper;
  * @author Misbahul D Munir <misbahuldmunir@gmail.com>
  * @since 1.0
  */
-class Route extends \mdm\admin\BaseObject
+class Route extends \opinatspain\admin\BaseObject
 {
     const CACHE_TAG = 'mdm.admin.route';
 

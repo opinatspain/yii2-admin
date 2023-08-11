@@ -1,8 +1,8 @@
 <?php
 
-namespace reza2ebt\admin\controllers;
+namespace opinatspain\admin\controllers;
 
-use mdm\admin\components\ItemController;
+use opinatspain\admin\components\ItemController;
 use yii\rbac\Item;
 
 /**

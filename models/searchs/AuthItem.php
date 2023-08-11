@@ -1,11 +1,11 @@
 <?php
 
-namespace reza2ebt\admin\models\searchs;
+namespace opinatspain\admin\models\searchs;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ArrayDataProvider;
-use mdm\admin\components\Configs;
+use opinatspain\admin\components\Configs;
 use yii\rbac\Item;
 
 /**
